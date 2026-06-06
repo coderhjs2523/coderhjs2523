@@ -107,6 +107,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=coderhjs2523&show_icons=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderhjs2523" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderhjs2523&" alt="coderhjs2523" /></p>
