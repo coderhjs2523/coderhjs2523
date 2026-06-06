@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderhjs2523/coderhjs2523/main/Banner.gif" width="100%" />
+</p>
+
+---
 <h1 align="center">Hi 👋, I'm Hareesh</h1>
 
 <h3 align="center">🚀 Aspiring Software Engineer | MERN Stack Developer | Java & DSA</h3>
