@@ -2,14 +2,8 @@
 
 <h3 align="center">🚀 Aspiring Software Engineer | MERN Stack Developer | Java & DSA</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=coderhjs2523&label=Profile%20views&color=0e75b6&style=flat" alt="coderhjs2523" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coderhjs2523" alt="coderhjs2523" />
-  </a>
 </p>
 
 ---
@@ -45,35 +39,6 @@
 
 ---
 
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/coderhjs" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://instagram.com/dreams02523" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.youtube.com/@hareeshjaiveersingh" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.hackerrank.com/coderhjs2523" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.leetcode.com/coderhjs" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/coderhjs/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
-</a>
-</p>
-
----
 
 ## 🛠 Languages and Tools
 
@@ -92,19 +57,53 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS" />
 </p>
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderhjs2523&layout=compact" />
+<p align="center">These insights represent my coding consistency, repository contributions, and project development activity.</p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderhjs2523&theme=dark" width="96%" /></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=coderhjs2523&theme=github-compact" width="96%" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderhjs2523&" alt="coderhjs2523" /></p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  
+  <a href="mailto:hareeshjaiveersingh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/coderhjs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/coderhjs2523">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.leetcode.com/coderhjs">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.hackerrank.com/coderhjs2523">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=coderhjs2523&show_icons=true" />
+---
+<!-- 🔥 FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderhjs2523&" alt="coderhjs2523" /></p>
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
